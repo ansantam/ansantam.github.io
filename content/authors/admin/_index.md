@@ -81,6 +81,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Particle accelerators are one of the most complex machines in the world, and the challenging research programmes for the next decades can only be met with technological innovation.
+Machine learning methods are a promising technology to not only assist accelerators but to fundamentally change the way they are designed and operated, entering a new era of autonomous and user-driven facilities.
+I currently work on researching and testing promising machine learning methods to solve relevant problems in particle accelerators.
+
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->

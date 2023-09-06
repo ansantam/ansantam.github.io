@@ -224,7 +224,7 @@ sections:
         postcode: '76344'
         country: Germany
         country_code: DE
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Building 345, Office 205
       # office_hours:
         # - 'Monday 10:00 to 13:00'
         # - 'Wednesday 09:00 to 10:00'
