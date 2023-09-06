@@ -30,6 +30,8 @@ interests:
   - Nonlinear beam dynamics
   - Machine Learning
   - Reinforcement Learning
+  - Active Learning
+  - Uncertainty quantification
   - Probabilistic AI
   - Causal AI
 
@@ -65,7 +67,7 @@ social:
     link: https://github.com/ansantam
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/ansantam
+    link: https://www.linkedin.com/in/ansantam
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
