@@ -1,16 +1,13 @@
 ---
-title: 2022 MT ARD ST3 pre-meeting Machine Learning Workshop
-summary: Basic introduction to machine learning concepts for accelerator physicists
+title: Reinforcement Learning in the research field of accelerators
+summary: Invited keynote at he workshop on conceptual advances in deep learning
 tags:
-  - workshop
   - talks
-  - tutorial
-  - ML
-  - introductory
-date: '2022-09-07'
+  - RL
+date: '2022-09-12'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://indico.scc.kit.edu/event/2853/timetable/#20220912.detailed'
 
 image:
   caption: workshop participants
@@ -21,9 +18,9 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/ansantam/2022-MT-ARD-ST3-ML-workshop'
+url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://indico.scc.kit.edu/event/2853/contributions/11041/attachments/5381/8282/reinforcement-learning.pdf'
 url_video: ''
 
 # Slides (optional).
@@ -33,9 +30,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-- [Website for the workshop](https://ansantam.github.io/2022-MT-ARD-ST3-ML-workshop/)
-- [Indico page](https://indico.desy.de/event/35272/)
-
-{{< gallery album="2022_mt-ard-st3_workshop" >}}
 
 
