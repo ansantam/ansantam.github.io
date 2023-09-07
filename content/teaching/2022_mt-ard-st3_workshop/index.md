@@ -10,7 +10,7 @@ tags:
 date: '2022-09-07'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://indico.desy.de/event/35272/'
+external_link: ''
 
 image:
   caption: workshop participants
@@ -22,7 +22,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/ansantam/2022-MT-ARD-ST3-ML-workshop'
-url_pdf: ''
+url_pdf: 'https://indico.desy.de/event/35272/'
 url_slides: ''
 url_video: ''
 
