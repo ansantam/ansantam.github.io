@@ -3,6 +3,8 @@ title: 2022 MT ARD ST3 pre-meeting Machine Learning Workshop
 summary: basic introduction to machine learning concepts for accelerator physicists
 tags:
   - workshop
+  - talks
+  - tutorial
   - ML
   - introductory
 date: '2022-09-07'

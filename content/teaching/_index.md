@@ -1,9 +1,9 @@
   ---
-# Leave the homepage title empty to use the site title
-title:
+title: Teaching
 date: 
 type: landing
 
+# The following blocks support this option: pages, featured, experience, accomplishments, contact, blank, tag_cloud, portfolio
 sections:
   - block: portfolio
     id: teaching
@@ -22,10 +22,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Workshops
+          tag: workshop
+        - name: Lectures
+          tag: lecture
+        - name: Tutorials
+          tag: tutorial
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
