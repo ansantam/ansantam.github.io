@@ -1,6 +1,6 @@
 ---
 title: 2022 MT ARD ST3 pre-meeting Machine Learning Workshop
-summary: basic introduction to machine learning concepts for accelerator physicists
+summary: Basic introduction to machine learning concepts for accelerator physicists
 tags:
   - workshop
   - talks
@@ -22,10 +22,13 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/ansantam/2022-MT-ARD-ST3-ML-workshop'
-url_pdf: 'https://indico.desy.de/event/35272/'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
+text:
+- [Website for the workshop](https://ansantam.github.io/2022-MT-ARD-ST3-ML-workshop/)
+- [Indico page](https://indico.desy.de/event/35272/)
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
