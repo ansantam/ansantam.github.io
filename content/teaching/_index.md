@@ -1,6 +1,5 @@
-  ---
+---
 title: Teaching
-date: 
 type: landing
 
 # The following blocks support this option: pages, featured, experience, accomplishments, contact, blank, tag_cloud, portfolio
