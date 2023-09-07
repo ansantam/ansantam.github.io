@@ -24,7 +24,7 @@ main:
     weight: 11
   - name: Events
     url: 'events'
-    weight: 11
+    weight: 12
   - name: Contact
     url: '#contact'
     weight: 60
