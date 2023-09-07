@@ -237,8 +237,8 @@ sections:
         country_code: DE
       directions: Building 345, Office 205
       coordinates:
-        latitude: '49.09614231854019'
-        longitude: '8.429751038649007'
+        latitude: '49.0961'
+        longitude: '8.4297'
       # office_hours:
         # - 'Monday 10:00 to 13:00'
         # - 'Wednesday 09:00 to 10:00'
