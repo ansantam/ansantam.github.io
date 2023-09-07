@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 
 type: landing
 
 sections:
@@ -206,8 +206,19 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+
+  # - block: outreach
+  #   id: outreach
+  #   content:
+  #     title: Teaching and outreach
+  #     subtitle:
+
   - block: contact
     id: contact
+    features:
+      map:
+        provider: 'google'
+        zoom: 15
     content:
       title: Contact
       subtitle:
@@ -225,6 +236,9 @@ sections:
         country: Germany
         country_code: DE
       directions: Building 345, Office 205
+      coordinates:
+        latitude: '49.09614231854019'
+        longitude: '8.429751038649007'
       # office_hours:
         # - 'Monday 10:00 to 13:00'
         # - 'Wednesday 09:00 to 10:00'
