@@ -207,12 +207,6 @@ sections:
   #   design:
   #     columns: '2'
 
-  # - block: outreach
-  #   id: outreach
-  #   content:
-  #     title: Teaching and outreach
-  #     subtitle:
-
   - block: contact
     id: contact
     features:
