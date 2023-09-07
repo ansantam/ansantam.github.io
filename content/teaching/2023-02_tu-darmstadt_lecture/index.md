@@ -1,9 +1,11 @@
 ---
-title: Reinforcement Learning in the research field of accelerators
-summary: Invited lecture at TU Darmstadt on introduction to Bayesian optimization
+title: Introduction to Bayesian optimization
+summary: Invited lecture at TU Darmstadt
 tags:
   - talks
-  - RL
+  - tutorial
+  - introductory
+  - BO
 date: '2022-09-12'
 
 # Optional external URL for project (replaces project detail page).

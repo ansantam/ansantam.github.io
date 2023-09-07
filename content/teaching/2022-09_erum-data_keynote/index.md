@@ -9,10 +9,6 @@ date: '2022-09-12'
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://indico.scc.kit.edu/event/2853/timetable/#20220912.detailed'
 
-image:
-  caption: workshop participants
-  focal_point: Smart
-
 # links:
 #   - icon: twitter
 #     icon_pack: fab
